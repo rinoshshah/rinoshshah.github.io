@@ -10,7 +10,7 @@
 .backdiv1{
     background-color: #cedde6;
     height: 700px;
-    /* position: relative; */
+    
     display: flex;
     align-items: center;
     justify-content: center;
@@ -22,13 +22,13 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    /* position: relative; */
+    
 }
 .profcard{
   text-align: center;
-  /* position: absolute; */
+  
   background-color: #e6f1f4;
-  /* top: 20%; */
+  
   height: 525.8px;
   width: 375px;
   
@@ -38,18 +38,16 @@
 }
 .image{
     width: 250px;
-    /* height: 250px; */
 }
 .social{
     background-color: white;
     display: flex;
     justify-content: space-around;
     padding-top: 20px;
-    padding-bottom: 30px;
+    padding-bottom: 20px;
     padding-left: 50px;
     padding-right: 50px;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
+    border-radius: 10px;
 }
 .social a{
     color: black;
@@ -58,10 +56,7 @@
     font-size: 100px;
     font-family: 'Poppins', sans-serif;
 }
-/* .footer{
-    background-color: #fff;
-    height: 70px;
-} */
+
 .footsocial{
     display: flex;
     justify-content: space-around;
