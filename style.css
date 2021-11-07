@@ -73,3 +73,27 @@
 .nav-item a{
     font-family: 'Montserrat', sans-serif;
 }
+.backdiv3{
+    background-color: #cedde6;
+    /* height: 700px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.backdiv4{
+    background-color:white;
+    /* height: 700px; */
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-around;
+
+}
+.backdiv3 p{
+    font-size: 75px;
+    font-family: 'Poppins', sans-serif;
+}
+.procontents{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
